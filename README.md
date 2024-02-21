@@ -15,7 +15,6 @@
 
 - 📫 How to reach me **faruk.saban@live.com**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farukshaban&show_icons=true&locale=en&layout=compact" alt="farukshaban" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
