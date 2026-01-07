@@ -1,76 +1,98 @@
-<h1 align="center">Hi 👋, I'm Faruk Shaban</h1>
-<h3 align="center">A passionate Web Developer exploring modern web technologies</h3>
+<h1 align="center">Hi, I'm Faruk Shaban 👋</h1>
+<h3 align="center">Web Developer focused on scalable e-commerce and modern backend systems</h3>
 
 <p align="center">
   <a href="https://github.com/farukshaban">
-    <img src="https://komarev.com/ghpvc/?username=farukshaban&label=Profile%20views&color=0e75b6&style=flat" alt="farukshaban" />
+    <img src="https://komarev.com/ghpvc/?username=farukshaban&label=Profile%20Views&color=0e75b6&style=flat" />
   </a>
 </p>
 
 ---
 
-### 🔭 Current Focus
-- Building **e-commerce solutions** with **MedusaJS + Next.js**
-- Developing a **Travel App** with **Payload CMS + Flutter**
-- Experimenting with **APIs, caching, and multi-language frontends**
-- Learning **advanced JavaScript, TypeScript, and backend architecture**
+## 🔍 About Me
+I build **real-world, production-oriented applications** with a strong focus on:
+- modular backend architecture  
+- multi-language & multi-currency systems  
+- performance, caching, and API design  
+
+I enjoy working close to **business logic**, not just UI.
 
 ---
 
-### 🌱 Currently Learning
-- **Next.js (App Router, Tailwind, ShadCN UI)**
-- **MedusaJS modular backend**
-- **Payload CMS & Supabase**
-- **Flutter for mobile apps**
+## 🔭 Current Work
+- **Multi-country e-commerce platform** using **MedusaJS + Next.js**
+- **Travel management mobile app** with **Payload CMS + Flutter**
+- Custom **API integrations** (ERP, pricing, stock, marketplaces)
+- Offline-first and cached data strategies
 
 ---
 
-### 👨‍💻 Featured Projects
-- 🛒 **[E-commerce Multi-Country Setup](#)** → MedusaJS + Next.js (multi-language & multi-currency)  
-- 📱 **[Travel App](#)** → Payload CMS backend + Flutter frontend  
-- 📊 **[Dashboards & Analytics](#)** → Power BI + custom APIs  
-- 🤖 **[Telegram Bot](#)** → Appointment checker & notifier  
+## 🌱 Actively Improving
+- Advanced **TypeScript patterns**
+- **MedusaJS v2** modules & pricing architecture
+- **Next.js App Router** (SSR, RSC, caching)
+- **Backend authorization & data isolation**
+- Mobile performance with **Flutter**
 
 ---
 
-### 📫 How to Reach Me
-- Email: **faruk.saban@live.com**
-- FreeCodeCamp: [Visit my profile](https://www.freecodecamp.org/farukshaban)
+## 🚀 Selected Projects
+
+### 🛒 E-commerce Multi-Country Platform
+**Stack:** MedusaJS · Next.js · PostgreSQL · Redis  
+**Highlights:**
+- Multi-language & multi-currency support
+- Centralized image storage (SKU-based)
+- Marketplace-specific pricing logic
+- Country-based storefront separation
 
 ---
 
-### 🌍 Connect with Me
+### 📱 Travel App (Agencies & Travelers)
+**Stack:** Payload CMS · Flutter · MongoDB  
+**Highlights:**
+- OTP-based authentication
+- Offline access to itineraries
+- Day-by-day program logic
+- Agency-level data isolation
+
+---
+
+### 🤖 Telegram Appointment Bot
+**Stack:** Node.js · Telegram API  
+**Highlights:**
+- Automated availability checks
+- Event-based notifications
+- Stateless polling logic
+
+---
+
+## 📫 Contact
+- **Email:** faruk.saban@live.com  
+- **FreeCodeCamp:** https://www.freecodecamp.org/farukshaban  
+
+---
+
+## 🌍 Social
 <p align="left">
-<a href="https://twitter.com/checkblanco" target="blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="https://linkedin.com/in/farukshaban" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://instagram.com/frksbn" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://discord.gg/farksi#5278" target="blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="https://twitter.com/checkblanco"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://linkedin.com/in/farukshaban"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://instagram.com/frksbn"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
 
-### ⚡ Languages & Tools
+## 🧰 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,flutter,java,spring,mysql,postgres,git,linux,html,css,tailwind,photoshop" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,flutter,nodejs,postgres,mysql,redis,git,linux,tailwind" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+## 📈 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farukshaban&show_icons=true&theme=radical" alt="farukshaban stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=farukshaban&show_icons=true&theme=radical" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farukshaban&theme=radical" alt="streak stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=farukshaban&show_icons=true&locale=en&layout=compact&theme=radical" alt="top languages" />
-</p>
-
----
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=farukshaban&theme=radical&row=1&column=6" alt="trophies" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farukshaban&theme=radical" />
 </p>
