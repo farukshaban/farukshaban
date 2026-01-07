@@ -86,28 +86,3 @@ I enjoy working close to **business logic**, not just UI.
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,flutter,nodejs,postgres,mysql,redis,git,linux,tailwind" />
 </p>
-
----
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=farukshaban&show_icons=true&include_all_commits=true&count_private=true&theme=radical"
-    alt="GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=farukshaban&theme=radical"
-    alt="GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=farukshaban&layout=compact&theme=radical"
-    alt="Top Languages"
-  />
-</p>
